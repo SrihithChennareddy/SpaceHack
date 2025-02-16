@@ -2,7 +2,7 @@
 // Import axios for making HTTP requests
 let axios = require("axios");
 // NASA API key and base URL
-let NASA_API_KEY = "FbrbOSQ0fA74j4PkY6A32yih3zzlyRGmHGKB6g10";
+let NASA_API_KEY = "xxx";
 let BASE_URL = "https://api.nasa.gov/neo/rest/v1/neo/";
 
 // Gravitational constant (in N m^2/kg^2)
